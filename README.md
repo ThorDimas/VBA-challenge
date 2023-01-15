@@ -7,5 +7,4 @@ https://learn.microsoft.com/en-us/office/vba and
 https://stackoverflow.com/questions/59461571/how-do-i-keep-initial-value-in-a-for-loop
 
 Here are the resuts:
-![alt text](C:\Users\thord\OneDrive\Documentos\Diplomado\DataScience\2.- Clases\2.- Stock_Analysis - Week Two\Starter_Code\Instructions\Resources)
 
